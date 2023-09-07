@@ -64,7 +64,7 @@
 
 # 贡献者
 
-<a href="https://github.com/eryajf/learn-github/graphs/contributors">
+<a href="https://github.com/1051727403/SHU-CS-Source-Share/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
 </a>
 

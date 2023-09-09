@@ -50,9 +50,9 @@
 
 ### SHU-计算机组成原理
 
-1、机组原理（1、2）实验报告：本项目学习资料内
+1、[机组原理（1、2）实验报告](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)：本项目学习资料内
 
-2、机组原理（1、2）实验指导书等辅助：本项目学习资料内
+2、[机组原理（1、2）实验指导书等辅助](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)：本项目学习资料内
 
    
 
@@ -74,25 +74,25 @@
 
 ### SHU-数据库
 
-1、数据库（1）实验：本项目学习资料内
+1、[数据库（1）实验](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%881%EF%BC%89%E5%AE%9E%E9%AA%8C)：本项目学习资料内
 
-2、数据库（1、2）PPT、教案、复习资料：本项目学习资料内
+2、[数据库（1、2）PPT、教案、复习资料](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%95%B0%E6%8D%AE%E5%BA%93)：本项目学习资料内
 
    
 
 ### SHU-数字逻辑
 
-1、数字逻辑全报告和PPT、实验指导书等资料:本项目学习资料内
+1、[数字逻辑全报告和PPT、实验指导书等资料](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91):本项目学习资料内
 
 
 
 ### SHU-软件工程
 
-1、软件工程复习PPT等资料:本项目学习资料内
+1、[软件工程复习PPT等资料](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B):本项目学习资料内
 
 ### SHU-组合数学
 
-1、组合数学复习PPT等资料:本项目学习资料内
+1、[组合数学复习PPT等资料](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6):本项目学习资料内
 
 
 
